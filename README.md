@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Emily Freer, Ph.D.
 
-You can use the [editor on GitHub](https://github.com/efreer20/efreer20.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Educational Data Scientist and Motivation Researcher
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Data Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm working on a book - with some fabulous co-authors - called "Data Science in Education Using R." It'll be out in 2020 from Routledge. It is a very fun project, and we're writing it in the open here. 
+ 
 
-```markdown
-Syntax highlighted code block
+## Research
 
-# Header 1
-## Header 2
-### Header 3
+I do research focused on understanding and supporting college student success. I am curious about the ways in which tutoring and other support initiatives differentially impact students' motivation and career choices. 
 
-- Bulleted
-- List
+## Teaching
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efreer20/efreer20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm passionate about teaching, and my teaching philosophy is focused on (1) providing choices to students in the classroom and (2) enhancing motivation by helping students make personally relevant connections with the material. 
